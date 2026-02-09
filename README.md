@@ -1,5 +1,6 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="2351" height="688" alt="image" src="https://github.com/user-attachments/assets/23a740eb-6aed-4aa6-9722-62be8dc0ef2f" />
+" />
 </div>
 
 # Run and deploy Wrestling Scorer Pro
